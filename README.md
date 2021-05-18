@@ -18,10 +18,12 @@ The following is a list of bots to which this privacy policy applies.
 
 ### Data Collected By Command
 The following items may be collected and stored when intentionally provided by a user (usually by means of a command). This data will not be collected automatically. When providing data in this way, you forego any rights to the content of the data provided.
-* Server configurations (welcome channel, volume settings)
+* Server configurations (welcome channel, welcome message, volume setting)
 * Data and content for automated tasks (personalized volume settings)
 * Saved references, urls, or text (playlists)
-* Date, Time, and Content of last song request
+* Date, Time, Server Name, and Server ID of song requests
+* Special user flags such as "Developer"
+* Special server glags such as "Nitro"
 
 
 
