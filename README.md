@@ -8,6 +8,7 @@ The following is a list of bots to which this privacy policy applies.
 * **Cereal**#1035 (462903199909543946)
 * **Cereal Private**#0473 (533674749872701451)
 * **DBM Dev Helper**#6335 (500986596011540490)
+* **bathroom at a party**#0020 (892855545969651713)
 
 
 ### Terminology
