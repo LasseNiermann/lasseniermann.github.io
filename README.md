@@ -23,15 +23,8 @@ The following items may be collected and stored when intentionally provided by a
 * Data and content for automated tasks (personalized volume settings)
 * Saved references, urls, or text (playlists)
 * Date, Time, Server Name, and Server ID of song requests
-* Special user flags such as "Developer"
+* Special user flags such as "Developer" or "Support"
 * Special server glags such as "Nitro"
-
-
-
-### Data Collected When Enabled
-These items will be automatically collected if a bot is configured to perform certain actions by a server manager. These features are always opt-in, and thus this data will not be collected unless the corresponding feature is enabled.
-* Logs of chat messages (serverlogs)
-
 
 
 ### Data Collected Automatically
@@ -43,6 +36,9 @@ This data may be collected automatically by some bots. This data is used to prov
 ### Data Storage
 All stored data is kept on protected servers. While storage methods vary, most data is kept within password-protected databases. Please keep in mind that even with these protections, no data can ever be 100% secure. All efforts are taken to keep your data secure and private, but its absolute security cannot be guaranteed.
 
+
+### Your Rights
+We comply with all laws including GDPR. To view, correct or remove your data, contact us. Contact for privacy concern/inquieries: luna [dot] niermann [at] gmail [dot] com.
 
 
 ### Feedback
